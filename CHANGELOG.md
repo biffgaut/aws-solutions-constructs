@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 A change to trigger a build
 This should build just V1
+This should exclude the build based on branch name
 
 ## [1.156.1](https://github.com/awslabs/aws-solutions-constructs/compare/v1.156.0...v1.156.1) (2022-05-20)
 
